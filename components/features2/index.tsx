@@ -38,7 +38,7 @@ export const Features2 = () => {
                      color: '$accents8',
                   }}
                >
-                  RoboGuard's AI can be easily customized to fit your specific factory requirements. Simply prompt it with your needs, and it will adapt its monitoring capabilities accordingly.
+                  RoboGuards AI can be easily customized to fit your specific factory requirements. Simply prompt it with your needs, and it will adapt its monitoring capabilities accordingly.
                </Text>
 
                <Flex
@@ -66,7 +66,7 @@ export const Features2 = () => {
                               color: '$accents8',
                            }}
                         >
-                           Prompt RoboGuard with "Look for fire hazards, spills, and exposed wiring," and it will instantly adapt its visual recognition systems to identify these specific risks in your facility.
+                           Prompt RoboGuard with &quot;Look for fire hazards, spills, and exposed wiring,&quot; and it will instantly adapt its visual recognition systems to identify these specific risks in your facility.
                         </Text>
                      </Flex>
                   </Flex>
@@ -88,7 +88,7 @@ export const Features2 = () => {
                               color: '$accents8',
                            }}
                         >
-                           Instruct RoboGuard to "Monitor PPE usage and safety protocol adherence," and it will vigilantly ensure your team follows all necessary safety procedures and regulations.
+                           Instruct RoboGuard to &quot;Monitor PPE usage and safety protocol adherence,&quot; and it will vigilantly ensure your team follows all necessary safety procedures and regulations.
                         </Text>
                      </Flex>
                   </Flex>

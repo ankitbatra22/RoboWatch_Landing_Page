@@ -4,6 +4,7 @@ import { Flex } from '../styles/flex';
 import { Button, Text } from '@nextui-org/react';
 import { motion } from 'framer-motion';
 import { useState, useEffect } from 'react';
+import Image from 'next/image';
 
 export const Hero = () => {
    const { type } = useTheme();
@@ -127,14 +128,13 @@ export const Hero = () => {
                      whileHover={{ scale: 1.02 }}
                      transition={{ duration: 0.3 }}
                   >
-                     <img
-                        src={type === 'dark' ? "/robot_placeholder_dark.png" : "/robot_placeholder_light.png"}
-                        alt="RoboGuard"
-                        style={{
-                           width: '100%',
-                           height: '100%',
-                           objectFit: 'contain',
-                        }}
+                     <Image
+                     src={type === 'dark' ? "/robot_placeholder_dark.png" : "/robot_placeholder_light.png"}
+                     alt="RoboGuard"
+                     layout="responsive"
+                     width={100}
+                     height={100}
+                     objectFit="contain"
                      />
                   </motion.div>
                </motion.div>

@@ -29,7 +29,7 @@ export const Statistics = () => {
                      textAlign: 'center',
                   }}
                >
-                  Here's a glimpse into our progress:
+                  Here is a glimpse into our progress:
                </Text>
             </Flex>
             <Flex

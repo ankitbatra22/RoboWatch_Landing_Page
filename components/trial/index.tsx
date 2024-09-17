@@ -23,7 +23,7 @@ export const Trial = () => {
                   textAlign: 'center',
                }}
             >
-               Schedule a demo to see RoboGuard in action and learn how it can revolutionize your facility's safety.
+               Schedule a demo to see RoboGuard in action and learn how it can revolutionize your facility&apos;s safety.
             </Text>
 
             <Button size="lg">Schedule Demo</Button>
