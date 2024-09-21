@@ -12,8 +12,8 @@ export const Nav = () => {
    const collapseItems = [
       'Features',
       'Meet the Team',
-      'Design Log',
-      'Build Log',
+      { name: 'Design Log', href: '/design-log' },
+      { name: 'Build Log', href: '/build-log' },
    ];
    return (
       <Navbar
@@ -117,22 +117,22 @@ export const Nav = () => {
                <Navbar.Link isActive href="#">
                   Meet the Team
                </Navbar.Link>
-               <Navbar.Link href="#">Design Log</Navbar.Link>
-               <Navbar.Link href="#">Build Log</Navbar.Link>
+               <Navbar.Link href="/design-log">Design Log</Navbar.Link>
+               <Navbar.Link href="/build-log">Build Log</Navbar.Link>
             </Navbar.Content>
          </Navbar.Brand>
 
          <Navbar.Collapse>
             {collapseItems.map((item, index) => (
-               <Navbar.CollapseItem key={item}>
+               <Navbar.CollapseItem key={typeof item === 'string' ? item : item.name}>
                   <Link
                      color="inherit"
                      css={{
                         minWidth: '100%',
                      }}
-                     href="#"
+                     href={typeof item === 'string' ? '#' : item.href}
                   >
-                     {item}
+                     {typeof item === 'string' ? item : item.name}
                   </Link>
                </Navbar.CollapseItem>
             ))}
