@@ -1,0 +1,51 @@
+[
+    {
+      "date": "2023-05-01",
+      "title": "Initial Design Concepts",
+      "content": [
+        {
+          "type": "text",
+          "value": "Today, we brainstormed initial design concepts for RoboGuard. Key points:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Discussed the overall shape and size of the robot",
+            "Explored various sensor placement options",
+            "Considered different mobility solutions (wheels vs. tracks)"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/mock.png",
+          "alt": "Initial design sketch"
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Create preliminary 3D models of our top concepts."
+        }
+      ]
+    }, 
+    {
+      "date": "2023-05-01",
+      "title": "Initial Design Concepts",
+      "content": [
+        {
+          "type": "text",
+          "value": "Today, we brainstormed initial design concepts for RoboGuard. Key points:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Discussed the overall shape and size of the robot",
+            "Explored various sensor placement options",
+            "Considered different mobility solutions (wheels vs. tracks)"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Create preliminary 3D models of our top concepts."
+        }
+      ]
+    }
+]

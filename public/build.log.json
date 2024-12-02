@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2024-03-20",
+        "title": "Initial Hardware Assembly",
+        "content": [
+            {
+                "type": "text",
+                "value": "Started assembling the first RoboGuard prototype. Today's progress:"
+            },
+            {
+                "type": "list",
+                "items": [
+                    "Mounted the main chassis components",
+                    "Installed preliminary motor systems",
+                    "Set up basic power distribution"
+                ]
+            },
+            {
+                "type": "image",
+                "src": "/mock.png",
+                "alt": "Initial assembly progress"
+            },
+            {
+                "type": "text",
+                "value": "Next steps: Complete the sensor mounting and begin wiring."
+            }
+        ]
+    },
+    {
+        "date": "2024-03-19",
+        "title": "Component Preparation",
+        "content": [
+            {
+                "type": "text",
+                "value": "Prepared all components for the build. Completed tasks:"
+            },
+            {
+                "type": "list",
+                "items": [
+                    "Inventoried all received parts",
+                    "Tested individual components",
+                    "Created detailed assembly checklist"
+                ]
+            },
+            {
+                "type": "text",
+                "value": "Next steps: Begin physical assembly of the base structure."
+            }
+        ]
+    }
+]
