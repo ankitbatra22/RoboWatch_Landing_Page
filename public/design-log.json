@@ -1,0 +1,230 @@
+[
+    {
+      "date": "2024-09-09",
+      "title": "The Team!",
+      "content": [
+        {
+          "type": "text",
+          "value": "This week, we finalized our project team for our 4th year Capstone project. Key activities:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Assigned roles and responsibilities for team members (Electrical, Software, Mechanical, and Controls Leads)",
+            "Discussed team goals and expectations (Time commitments)",
+            "Set up communication channels and tools (Discord)"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Define the problem and establish project requirements."
+        }
+      ]
+    },
+    {
+      "date": "2024-09-16",
+      "title": "Meeting: Problem Definition",
+      "content": [
+        {
+          "type": "text",
+          "value": "This week, we defined the problem and identified the need for our project. Highlights:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The problem determined was the lack of or inefficiencies in monitoring for hazards in factory environments",
+            "Researched industry requirements for safety monitoring robots",
+            "Outlined initial objectives and scope of the projects",
+            "Created our website!"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Discuss problem definition, constraints, and criteria."
+        }
+      ]
+    },
+    {
+      "date": "2024-09-23",
+      "title": "Meeting: Defining Constraints and Criteria",
+      "content": [
+        {
+          "type": "text",
+          "value": "We delved into the problem definition and established constraints and criteria for the project. Key outcomes:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Defined constraints such as budget, size, and materials",
+            "Set criteria for success including adaptability, coverage, top speed, and safety",
+            "Ideated about potential solutions and the preexisting ones"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Present potential solutions and explore existing patents."
+        }
+      ]
+    },
+    {
+      "date": "2024-09-30",
+      "title": "Meeting: Solutions and Patents Review",
+      "content": [
+        {
+          "type": "text",
+          "value": "This week, we presented potential solutions and reviewed existing patents. Key discussions:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Outlined 4 potential solutions that adress the problem of monitoring hazards in factories",
+            "Reviewed 3 existing patents related to similar technologies",
+            "Analyzed strengths and weaknesses of each solution and how we can leverage them in our design"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Select the best solution and move forward with design planning."
+        }
+      ]
+    },
+    {
+      "date": "2024-10-07",
+      "title": "Solution Selection: RoboWatch",
+      "content": [
+        {
+          "type": "text",
+          "value": "We selected the best solution for RoboWatch. Here's what we accomplished:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Evaluated potential solutions based on defined constraints and criteria",
+            "Developed a decision matrix with weighed criteria",
+            "Documented rationale for the selected solution, an autonomous mobile robot"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Prepare for the Preliminary Design Presentation (PDP)."
+        }
+      ]
+    },
+    {
+      "date": "2024-10-17",
+      "title": "Preliminary Design Presentation (PDP)",
+      "content": [
+        {
+          "type": "text",
+          "value": "This week, we presented our preliminary design for RoboWatch. Highlights of the PDP:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Shared initial 3D models and design sketches",
+            "Outlined functional requirements and key features",
+            "Gathered feedback from classmates and advisors about next steps"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Incorporate feedback and start working on the detailed design."
+        }
+      ]
+    },
+    {
+      "date": "2024-10-24",
+      "title": "Detailed Design",
+      "content": [
+        {
+          "type": "text",
+          "value": "We developed a detailed design for RoboWatch this week. Key achievements:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Finalized prototype CAD models with precise dimensions",
+            "Selected key components, including sensors and motors",
+            "Drafted high level circuit diagrams for hardware integration",
+            "Researched vision language models capable of running on a Jetson Orin NX"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Perform design verification to test feasibility and functionality."
+        }
+      ]
+    },
+    {
+      "date": "2024-11-11",
+      "title": "Design Verification",
+      "content": [
+        {
+          "type": "text",
+          "value": "We verified the feasibility of our detailed design this week. Highlights:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ran simulations (FEA, Model inference) to test hardware and software integration",
+            "Tested the vision language model's capabilities for live video captioning",
+            "Validated compliance with project constraints and criteria for the final report"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Prepare for the Final Design Presentation (FDP)."
+        }
+      ]
+    },
+    {
+      "date": "2023-11-25",
+      "title": "Final Design Presentation (FDP)",
+      "content": [
+        {
+          "type": "text",
+          "value": "We delivered the Final Design Presentation (FDP) this week. Key points from the presentation:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Showcased finalized CAD models and design details",
+            "Showed off the detailed electrical schematics and component diagrams",
+            "Outlined the manufacturing and implementation plan",
+            "Showed off our testing of the vision langauge models!"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Submit the final report"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-02",
+      "title": "Final Report and Design Log Update",
+      "content": [
+        {
+          "type": "text",
+          "value": "We completed our final deliverables for the RoboWatch project. Key accomplishments:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Submitted the final project report detailing the design process and outcomes",
+            "Continued working on our prototype",
+            "Team dinner!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/grinding.jpg",
+          "alt": "Chilling"
+        },
+        {
+          "type": "text",
+          "value": "This concludes the design log for MTE 481, we'll see you again in MTE 482!"
+        }
+      ]
+    }
+  ]
