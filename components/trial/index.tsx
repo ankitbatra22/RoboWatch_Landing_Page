@@ -26,7 +26,7 @@ export const Trial = () => {
                Schedule a demo to see RoboWatch in action and learn how it can revolutionize your facility&apos;s safety.
             </Text>
 
-            <Button size="lg">Schedule Demo</Button>
+            <Button size="lg" as="a" href="/design-log">Schedule Demo</Button>
          </Flex>
       </>
    );

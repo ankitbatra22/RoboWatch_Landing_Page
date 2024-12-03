@@ -89,8 +89,8 @@ export const Hero = () => {
                }}
                wrap="wrap"
             >
-               <Button size="lg">Get Started</Button>
-               <Button ghost size="lg">Learn More</Button>
+               <Button size="lg" as="a" href="/design-log">Get Started</Button>
+               <Button ghost size="lg" as="a" href="/design-log">Learn More</Button>
             </Flex>
          </Box>
          <Box
