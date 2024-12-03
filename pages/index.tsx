@@ -20,7 +20,7 @@ const Home: NextPage = () => {
             <Features1 />
             <Features2 />
             <Statistics />
-            <Faq />
+            {/* <Faq /> */}
             <Trial />
             <Footer />
          </Box>

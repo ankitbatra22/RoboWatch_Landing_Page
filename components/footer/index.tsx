@@ -1,6 +1,6 @@
 import {Divider, Text} from '@nextui-org/react';
 import React from 'react';
-import {PAMALogo} from '../navbar/logo';
+import {RoboWatchLogo} from '../navbar/logo';
 import {Box} from '../styles/box';
 import {Flex} from '../styles/flex';
 
@@ -13,7 +13,7 @@ export const Footer = () => {
          }}
       >
          <Box as={'footer'} css={{width: '100%'}}>
-            <Flex
+            {/* <Flex
                justify={'center'}
                wrap={'wrap'}
                align={'center'}
@@ -24,13 +24,13 @@ export const Footer = () => {
                   },
                   '@sm': {},
                }}
-            >
-               <Flex
+            > */}
+               {/* <Flex
                   css={{gap: '$5', w: '250px'}}
                   direction={'column'}
                   align={'center'}
                >
-                  <PAMALogo />
+                  <RoboWatchLogo />
                   <Box as={'ul'} css={{gap: '$5', listStyle: 'none'}}>
                      <Box as={'li'}>
                         <Text span css={{color: '$accents8'}}>
@@ -170,7 +170,7 @@ export const Footer = () => {
                      </Box>
                   </Box>
                </Flex>
-            </Flex>
+            </Flex> */}
             <Box
                css={{
                   'px': '$10',
@@ -205,10 +205,7 @@ export const Footer = () => {
                      }}
                      wrap={'wrap'}
                   >
-                     <PAMALogo />
-                     <PAMALogo />
-                     <PAMALogo />
-                     <PAMALogo />
+                     <RoboWatchLogo />
                   </Flex>
                   <Flex
                      css={{
@@ -228,7 +225,7 @@ export const Footer = () => {
                      }}
                   >
                      <Text span css={{color: '$accents8'}}>
-                        © Copyright 2021 PAMA Inc.
+                        © Copyright 2021 RoboWatch Inc.
                      </Text>
                   </Flex>
                </Flex>

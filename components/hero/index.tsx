@@ -68,7 +68,7 @@ export const Hero = () => {
                   }}
                   color="primary"
                >
-                  RoboGuard
+                  RoboWatch
                </Text>
             </Text>
             <Text
@@ -89,8 +89,8 @@ export const Hero = () => {
                }}
                wrap="wrap"
             >
-               <Button size="lg">Get Started</Button>
-               <Button ghost size="lg">Learn More</Button>
+               <Button size="lg" as="a" href="/design-log">Get Started</Button>
+               <Button ghost size="lg" as="a" href="/design-log">Learn More</Button>
             </Flex>
          </Box>
          <Box
@@ -130,7 +130,7 @@ export const Hero = () => {
                   >
                      <Image
                      src={type === 'dark' ? "/robot_placeholder_dark.png" : "/robot_placeholder_light.png"}
-                     alt="RoboGuard"
+                     alt="RoboWatch"
                      layout="responsive"
                      width={100}
                      height={100}

@@ -20,7 +20,7 @@ export const Statistics = () => {
                      textAlign: 'center',
                   }}
                >
-                  RoboGuard: Revolutionizing Factory Safety with AI
+                  RoboWatch: Revolutionizing Factory Safety with AI
                </Text>
                <Text
                   span
@@ -54,7 +54,7 @@ export const Statistics = () => {
                </Flex>
                <Flex direction={'column'}>
                   <Text h2 css={{color: '$blue600'}}>
-                     x*x*x
+                     1&quot; x 1.5&quot; x 2&quot;
                   </Text>
                   <Text span css={{textAlign: 'center'}} weight={'medium'}>
                      Dimensions
@@ -62,15 +62,15 @@ export const Statistics = () => {
                </Flex>
                <Flex direction={'column'}>
                   <Text h2 css={{color: '$blue600'}}>
-                     $xxxx
+                     $1900
                   </Text>
                   <Text span css={{textAlign: 'center'}} weight={'medium'}>
-                     Dollars
+                     Unit Cost
                   </Text>
                </Flex>
                <Flex direction={'column'}>
                   <Text h2 css={{color: '$blue600'}}>
-                     50+
+                     5+
                   </Text>
                   <Text span css={{textAlign: 'center'}} weight={'medium'}>
                      Tested Safety Protocols
