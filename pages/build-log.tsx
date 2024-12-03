@@ -35,7 +35,7 @@ const BuildLog: NextPage = () => {
   useEffect(() => {
     fetch('/build.log.json')
       .then(response => response.json())
-      .then(data => setEntries(data.reverse())); // Reverse to show newest first
+      .then(data => setEntries(data)); // Remove .reverse() to keep newest first
   }, []);
 
   return (

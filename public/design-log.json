@@ -111,7 +111,7 @@
     ]
   },
   {
-    "date": "2024-10-21",
+    "date": "2024-10-17",
     "title": "Preliminary Design Presentation (PDP)",
     "content": [
       {
@@ -133,7 +133,7 @@
     ]
   },
   {
-    "date": "2024-11-04",
+    "date": "2024-10-24",
     "title": "Detailed Design",
     "content": [
       {
@@ -146,7 +146,7 @@
           "Finalized prototype CAD models with precise dimensions",
           "Selected key components, including sensors and motors",
           "Drafted high level circuit diagrams for hardware integration",
-          "Researched vision language models capable of running on a Jetson Nano"
+          "Researched vision language models capable of running on a Jetson Orin NX"
         ]
       },
       {
