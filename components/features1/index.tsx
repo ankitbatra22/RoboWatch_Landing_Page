@@ -38,7 +38,7 @@ export const Features1 = () => {
                      color: '$accents8',
                   }}
                >
-                  RoboGuard uses cutting-edge AI and computer vision to keep your factory safe and efficient.
+                  RoboWatch uses cutting-edge AI and computer vision to keep your factory safe and efficient.
                </Text>
 
                <Flex

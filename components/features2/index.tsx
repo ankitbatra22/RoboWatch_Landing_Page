@@ -30,7 +30,7 @@ export const Features2 = () => {
                <Text span css={{color: '$blue600'}}>
                   Easy Customization
                </Text>
-               <Text h3>Tailor RoboGuard to Your Needs</Text>
+               <Text h3>Tailor RoboWatch to Your Needs</Text>
                <Text
                   span
                   css={{
@@ -38,7 +38,7 @@ export const Features2 = () => {
                      color: '$accents8',
                   }}
                >
-                  RoboGuards AI can be easily customized to fit your specific factory requirements. Simply prompt it with your needs, and it will adapt its monitoring capabilities accordingly.
+                  RoboWatchs AI can be easily customized to fit your specific factory requirements. Simply prompt it with your needs, and it will adapt its monitoring capabilities accordingly.
                </Text>
 
                <Flex
@@ -66,7 +66,7 @@ export const Features2 = () => {
                               color: '$accents8',
                            }}
                         >
-                           Prompt RoboGuard with &quot;Look for fire hazards, spills, and exposed wiring,&quot; and it will instantly adapt its visual recognition systems to identify these specific risks in your facility.
+                           Prompt RoboWatch with &quot;Look for fire hazards, spills, and exposed wiring,&quot; and it will instantly adapt its visual recognition systems to identify these specific risks in your facility.
                         </Text>
                      </Flex>
                   </Flex>
@@ -88,7 +88,7 @@ export const Features2 = () => {
                               color: '$accents8',
                            }}
                         >
-                           Instruct RoboGuard to &quot;Monitor PPE usage and safety protocol adherence,&quot; and it will vigilantly ensure your team follows all necessary safety procedures and regulations.
+                           Instruct RoboWatch to &quot;Monitor PPE usage and safety protocol adherence,&quot; and it will vigilantly ensure your team follows all necessary safety procedures and regulations.
                         </Text>
                      </Flex>
                   </Flex>

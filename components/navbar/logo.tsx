@@ -1,4 +1,4 @@
-export const PAMALogo = () => (
+export const RoboWatchLogo = () => (
    <svg
       className=""
       fill="none"

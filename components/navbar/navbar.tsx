@@ -1,7 +1,7 @@
 import {Button, Dropdown, Link, Navbar, Switch, Text} from '@nextui-org/react';
 import React from 'react';
 import {icons} from './icons';
-import {PAMALogo} from './logo';
+import {RoboWatchLogo} from './logo';
 import {useTheme as useNextTheme} from 'next-themes';
 import {useTheme} from '@nextui-org/react';
 import {GithubIcon} from '../icons/GithubIcon';
@@ -28,10 +28,12 @@ export const Nav = () => {
       >
          <Navbar.Brand>
             <Navbar.Toggle aria-label="toggle navigation" showIn="xs" />
-            <PAMALogo />
+            <Link href="/" css={{ display: 'flex', alignItems: 'center' }}>
+               <RoboWatchLogo />
             <Text b color="inherit" hideIn="xs">
-               PAMA
-            </Text>
+               RoboWatch
+               </Text>
+            </Link>
             <Navbar.Content
                hideIn="sm"
                css={{
@@ -55,7 +57,7 @@ export const Nav = () => {
                      </Dropdown.Button>
                   </Navbar.Item>
                   <Dropdown.Menu
-                     aria-label="RoboGuard features"
+                     aria-label="RoboWatch features"
                      css={{
                         '$$dropdownMenuWidth': '340px',
                         '$$dropdownItemHeight': '70px',
@@ -114,7 +116,7 @@ export const Nav = () => {
                      </Dropdown.Item>
                   </Dropdown.Menu>
                </Dropdown>
-               <Navbar.Link isActive href="#">
+               <Navbar.Link isActive href="/#">
                   Meet the Team
                </Navbar.Link>
                <Navbar.Link href="/design-log">Design Log</Navbar.Link>
