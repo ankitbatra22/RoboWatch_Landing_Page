@@ -54,7 +54,7 @@ export const Statistics = () => {
                </Flex>
                <Flex direction={'column'}>
                   <Text h2 css={{color: '$blue600'}}>
-                     1 ft x 1.5ft x 2ft
+                     1 ft x 1.5 ft x 2 ft
                   </Text>
                   <Text span css={{textAlign: 'center'}} weight={'medium'}>
                      Dimensions
