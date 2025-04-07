@@ -1,4 +1,447 @@
 [
+  {
+    "date": "2025-03-15",
+    "title": "Final RoboWatch Reveal!",
+    "content": [
+      {
+        "type": "text",
+        "value": "Today we present the completed RoboWatch in its final form:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "All systems fully integrated and operational",
+          "Comprehensive testing completed with excellent results",
+          "Aesthetics and functionality perfectly balanced",
+          "Documentation completed for all subsystems",
+          "Ready for final symposium!!!"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/final_look.jpeg",
+        "alt": "Final completed RoboWatch robot"
+      },
+      {
+        "type": "text",
+        "value": "This marks the successful completion of our RoboWatch project. We're proud of what we've achieved and excited to show it off!"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-13",
+    "title": "Aesthetic Finishing Touches",
+    "content": [
+      {
+        "type": "text",
+        "value": "Applied final aesthetic touches to complete the professional look of RoboWatch:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Spray painted metal chassis components for an all-black finish",
+          "Began taking videos/pictures and crating poster for symposium"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/painting.jpg",
+        "alt": "Spray painting the metal chassis components"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Final system check and preparation for project demonstration."
+      }
+    ]
+  },
+  {
+    "date": "2025-03-07",
+    "title": "Autonomous System Integration",
+    "content": [
+      {
+        "type": "text",
+        "value": "Completed full autonomous system integration and testing:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Implemented mapping and localization systems",
+          "Conducted extensive autonomous driving tests in various environments",
+          "Verified smooth transition of algorithms from V1 to V2 platform",
+          "Successfully detected hazards during a prompted floor scanning test",
+          "Developed and tested a new web application UI for customer monitoring",
+          "Validated ML-based hazard detection (was able to correctly identify loose wire on floor)"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/web_app_test.png",
+        "alt": "Web application interface showing hazard detection"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Final aesthetic improvements and prepare for demonstration."
+      }
+    ]
+  },
+  {
+    "date": "2025-03-04",
+    "title": "Initial Driving Test Success",
+    "content": [
+      {
+        "type": "text",
+        "value": "Major milestone achieved today with successful integration and driving tests:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Completed power distribution system tests",
+          "Validated PCB functionality in real-world conditions",
+          "Verified firmware operation",
+          "Tested motor control and drive systems",
+          "Conducted initial mobility assessments with basic maneuvers"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/initial_driving_test.png",
+        "alt": "Robot performing initial driving tests"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Begin integration of autonomous functions and advanced features."
+      }
+    ]
+  },
+  {
+    "date": "2025-03-03",
+    "title": "PCB (V2) Complete!",
+    "content": [
+      {
+        "type": "text",
+        "value": "Successfully completed the second version of our custom PCB with significant improvements:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Implemented all planned improvements from V1 feedback",
+          "Conducted initial electrical tests",
+          "Also, prepared code monorepo for experiment replication from V1 robot",
+          "Fine-tuned ML model inference experiemnts/testing procedures"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/pcb.jpg",
+        "alt": "Completed Version 2 PCB with clean wiring implementation"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Integrate PCB with mechanical assembly and conduct initial system tests."
+      }
+    ]
+  },
+  {
+    "date": "2025-03-02",
+    "title": "PCB (V2) Development",
+    "content": [
+      {
+        "type": "text",
+        "value": "Working on the second version of our PCB to address issues found in V1:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Better wiring, and component connection points as opposed to V1",
+          "Applied cleaner soldering techniques",
+          "Added additional test points for easier debugging",
+          "Improved component placement for better thermal management"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/pcb_soldering.png",
+        "alt": "PCB V2 soldering with improved techniques"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Complete PCB V2 and prepare for final integration with mechanical systems."
+      }
+    ]
+  },
+  {
+    "date": "2025-03-01",
+    "title": "PCB (V1) Complete!",
+    "content": [
+      {
+        "type": "text",
+        "value": "Completed the first version of our custom PCB:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Finished soldering all components",
+          "Performed initial power-up tests",
+          "Conducted continuity and short-circuit checks",
+          "Validated key functionality of subsystems",
+          "Identified several issues requiring redesign for V2 PCB"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/pcbv1.jpg",
+        "alt": "Completed Version 1 PCB with all components soldered"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Redesign and build PCB V2 to address identified issues."
+      }
+    ]
+  },
+  {
+    "date": "2025-02-28",
+    "title": "V2 Mechanical Assembly Complete",
+    "content": [
+      {
+        "type": "text",
+        "value": "Version 2 mechanical assembly has been completed:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Integrated walls, wheels, scissor lift, and all structural elements",
+          "Verified all mechanical connections and fasteners",
+          "Conducted structural integrity tests",
+          "Documented all assembly procedures for future reference",
+          "Identified optimal mounting points for electrical components"
+        ]
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Integrate electrical systems with the completed mechanical assembly."
+      }
+    ]
+  },
+  {
+    "date": "2025-02-26",
+    "title": "Scissor Lift Construction",
+    "content": [
+      {
+        "type": "text",
+        "value": "Focused today on the crucial scissor lift mechanism:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Assembled all scissor lift components",
+          "Installed actuator for lift control",
+          "Conducted load tests with various weights",
+          "Validated extension and retraction operations",
+          "Verified connection points to main chassis"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/scissor_lift_building.png",
+        "alt": "Scissor lift assembly and testing"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Complete final V2 mechanical assembly and prepare for electrical integration."
+      }
+    ]
+  },
+  {
+    "date": "2025-02-25",
+    "title": "Chassis Manufacturing Complete",
+    "content": [
+      {
+        "type": "text",
+        "value": "Major milestone: primary chassis components have been manufactured and assembled:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "All 3D printed structural components completed",
+          "Machined metal components received and inspected",
+          "Wall assembly constructed and verified",
+          "Initial fit checks conducted for all major components"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/walls_standing_ready.jpg",
+        "alt": "Printed and machined chassis components assembled"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Complete scissor lift assembly and wheel hub integration."
+      }
+    ]
+  },
+  {
+    "date": "2025-02-24",
+    "title": "Electrical Assembly Progress",
+    "content": [
+      {
+        "type": "text",
+        "value": "Made significant progress on electrical assembly while mechanical manufacturing continues:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "PCB component soldering in process",
+          "Created custom wire harnesses with proper crimping",
+          "Applied heat shrinks for wire protection and strain relief",
+          "Began preparation for electrical subsystem testing"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/rigidware.jpg",
+        "alt": "PCB soldering and wire crimping workstation"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Complete electrical assembly and prepare for integration with mechanical components."
+      }
+    ]
+  },
+  {
+    "date": "2025-02-22",
+    "title": "Manufacturing Time!",
+    "content": [
+      {
+        "type": "text",
+        "value": "Full-scale manufacturing for Version 2 has officially begun:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "3D printing of complex components initiated",
+          "Machining orders submitted for metal components",
+          "PCB blanks arrived and ready for component mounting",
+          "Manufacturing timeline established with critical path analysis"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/pcb_blank.jpg",
+        "alt": "Blank PCB boards ready for component soldering"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Begin PCB soldering and continue 3D printing and machining processes."
+      }
+    ]
+  },
+  {
+    "date": "2025-02-19",
+    "title": "Transition to V2",
+    "content": [
+      {
+        "type": "text",
+        "value": "With software and electrical components validated on V1, we're officially transitioning to Version 2 development:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Confirmed all V1 tests met or exceeded performance requirements",
+          "Identified key improvements for V2 implementation",
+          "Finalized aestheticCAD design for V2 with enhanced features such as a scissor lift",
+          "Prepared manufacturing plans for the new design"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/final_cad.png",
+        "alt": "Final CAD model for Version 2 RoboWatch"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Begin manufacturing components for Version 2 assembly."
+      }
+    ]
+  },
+  {
+    "date": "2025-02-09",
+    "title": "Basic Autonomous Tests",
+    "content": [
+      {
+        "type": "text",
+        "value": "Successfully conducted initial autonomous functionality tests on our V1 robot:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Performed basic driving tests in controlled environment",
+          "Validated sensor feedback and data processing",
+          "Tested basic obstacle avoidance algorithms",
+          "Measured performance metrics against design requirements",
+          "Identified key improvements for V2 design"
+        ]
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Begin transition to V2 robot design based on successful software and electrical validation."
+      }
+    ]
+  },
+  {
+    "date": "2025-02-01",
+    "title": "Wiring and Electrical Integration",
+    "content": [
+      {
+        "type": "text",
+        "value": "Completed the electrical integration of our V1 robot prototype:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Established all electromechanical connections",
+          "Just testing correctness of schematic/wiring right now",
+          "Performed voltage and continuity tests",
+          "Basic load testing (all motors full speed, while moving servos and actuator)"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/v1_robot_wiring.png",
+        "alt": "Underside of the robot showing complex wiring arrangement"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Begin basic autonomous driving tests with the completed V1 robot."
+      }
+    ]
+  },
+  {
+    "date": "2025-01-20",
+    "title": "Robot V1 Assembly",
+    "content": [
+      {
+        "type": "text",
+        "value": "V1 is assembled and ready for testing!"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Integrated all previously manufactured components",
+          "Placed heatset screws, all screws, and all wires",
+          "Validated structural integrity of the assembly"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/v1_final_build.jpg",
+        "alt": "Completed V1 prototyperobot assembly"
+      },
+      {
+        "type": "text",
+        "value": "Next steps: Complete wiring and begin electromechanical connections testing."
+      }
+    ]
+  },
     {
       "date": "2024-11-22",
       "title": "ML Testing and Board Integration",
