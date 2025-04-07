@@ -226,5 +226,150 @@
           "value": "This concludes the design log for MTE 481, we'll see you again in MTE 482!"
         }
       ]
+    },
+    {
+      "date": "2025-01-20",
+      "title": "Jetson Further Configuration for GPU Setup",
+      "content": [
+        {
+          "type": "text",
+          "value": "Advanced our Jetson configuration for optimized ML performance:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Installed updated CUDA drivers for better GPU utilization",
+            "Configured TensorRT for optimized inference",
+            "Conducted comprehensive ML model inference benchmarking",
+            "Optimized memory allocation for real-time processing",
+            "Tested power consumption under various workloads"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/jetson_tests.png",
+          "alt": "Jetson performance testing and configuration"
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Integrate LIDAR mapping capabilities with the GPU-accelerated ML pipeline."
+        }
+      ]
+    },
+    {
+      "date": "2025-01-29",
+      "title": "LIDAR Mapping Integration",
+      "content": [
+        {
+          "type": "text",
+          "value": "Made significant progress on LIDAR integration for our autonomous driving stack:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Developed point cloud processing algorithms",
+            "Implemented SLAM (Simultaneous Localization and Mapping) functionality",
+            "Created obstacle detection and avoidance systems",
+            "Tested mapping accuracy in various environments",
+            "Optimized data processing for real-time operation"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/mapping_lidar.png",
+          "alt": "LIDAR mapping test results"
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Integrate mapping with path planning algorithms for complete autonomous navigation."
+        }
+      ]
+    },
+    {
+      "date": "2025-02-11",
+      "title": "CAD Progress for Version 2",
+      "content": [
+        {
+          "type": "text",
+          "value": "Advanced our CAD design for the Version 2 robot:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Introduced a scissor lift mechanism for the camera (so doesn't block lidar while mapping and can go up and down for turns and such)",
+            "Refined aesthetic elements for a professional appearance",
+            "Implemented larger and more robust chassis design",
+            "Improved cable management pathways",
+            "Optimized component placement for better weight distribution"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/v2_cad_without_walls_progress.png",
+          "alt": "CAD progress showing V2 design without walls"
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Finalize CAD design with complete wall integration and assembly details."
+        }
+      ]
+    },
+    {
+      "date": "2025-02-14",
+      "title": "PCB Design Completion",
+      "content": [
+        {
+          "type": "text",
+          "value": "Completed the PCB design based on validated electrical architecture from V1:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Finalized schematic with all validated connections",
+            "Optimized component placement for thermal performance",
+            "Implemented proper ground planes and power distribution",
+            "Added dedicated headers for all subsystem connections",
+            "Conducted design rule checks and electrical validation",
+            "Submitted PCB order to manufacturer!"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/pcb_design_sketch.png",
+          "alt": "PCB design sketch showing layout and connections"
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Prepare for PCB assembly once boards arrive from manufacturer."
+        }
+      ]
+    },
+    {
+      "date": "2025-02-19",
+      "title": "CAD Complete for V2 (Final) Robot",
+      "content": [
+        {
+          "type": "text",
+          "value": "Major milestone: finalized CAD design for Version 2 robot is complete:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Completed all mechanical component designs",
+            "Verified assembly clearances and tolerances",
+            "Optimized for manufacturability with available equipment",
+            "Generated final production-ready drawings and models"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/final_cad.png",
+          "alt": "Final CAD model for Version 2 RoboWatch"
+        },
+        {
+          "type": "text",
+          "value": "Next steps: Begin manufacturing and component production. Most of the next entries will be in the build log :)"
+        }
+      ]
     }
   ]
